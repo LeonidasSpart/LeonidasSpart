@@ -24,7 +24,7 @@ I design and build full-stack systems across **social technology, real-time comm
 
 ---
 
-## 🇨🇭 ZRP Social — My Flagship
+## 🇨🇭 ZRP Social My Flagship
 
 **ZRP Social** is an independent Swiss/European social platform focused on privacy, safety, freedom of expression, meaningful connections and a more human digital experience.
 
@@ -76,7 +76,7 @@ I design and build full-stack systems across **social technology, real-time comm
 ---
 
 ### 💜 AmoraLive
-> A production-oriented dating and social platform for mobile and web — React Native / Expo app + Node.js backend + PostgreSQL.
+> A production-oriented dating and social platform for mobile and web React Native / Expo app + Node.js backend + PostgreSQL.
 
 | Area | Technologies |
 |---|---|

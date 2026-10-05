@@ -16,9 +16,9 @@
 
 Software engineer and founder based in **Switzerland**, with **19+ years of experience** building technology, products and digital platforms.
 
-**Founder & CEO of ZRP Social** — an independent Swiss/European social platform.
+**Founder & CEO of ZRP Social** an independent Swiss/European social platform.
 
-I design and build full-stack systems across **social technology, real-time communication, mobile applications, AI, cloud infrastructure, payments and blockchain** — from the architecture and backend all the way to the mobile and web experience.
+I design and build full-stack systems across **social technology, real-time communication, mobile applications, AI, cloud infrastructure, payments and blockchain** from the architecture and backend all the way to the mobile and web experience.
 
 > *"I believe technology should serve people, respect privacy, remain secure by design and create opportunities for communities across borders."*
 

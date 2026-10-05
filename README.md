@@ -1,111 +1,246 @@
 # Leonidas 🇨🇭
 
-## Software Engineer and Founder
+## Software Engineer & Founder
 
-I am a software engineer and founder based in Switzerland with more than 19 years of experience building software, digital products and technology platforms.
+Software engineer and founder based in Switzerland, with **19+ years of experience** building technology, products and digital platforms.
 
-I work across the full product lifecycle, from architecture and backend development to web applications, mobile apps, realtime communication, payments, AI and blockchain infrastructure.
+**Founder & CEO of ZRP Social.**
 
-I am the Founder and CEO of ZRP Social.
+I design and build full-stack systems across social technology, real-time communication, mobile applications, AI, cloud infrastructure, payments and blockchain.
 
-## What I Build
+---
 
-My work focuses on building complete products rather than isolated software components.
+## 🇨🇭 ZRP Social
 
-I currently work on three main projects: ZRP Social, ZRPPad and AmoraLive.
+**ZRP Social** is an independent Swiss/European social platform focused on privacy, safety, freedom of expression, meaningful connections and a more human digital experience.
 
-## ZRP Social
+The platform brings together:
 
-ZRP Social is a Swiss and European social platform built around people, communities and communication.
+- Social networking
+- Messaging
+- Short-form video
+- Music
+- Communities
+- Discovery
+- Live audio and video
+- AI-assisted features
+- Notifications
+- Monetization
+- Blockchain-enabled services
 
-The platform combines social networking, messaging, media, discovery, music, live audio and video, notifications, AI assisted features and digital monetization.
+ZRP is built as a multi-platform ecosystem with shared backend infrastructure.
 
-ZRP is designed for web, PWA, Android, iOS, iPadOS, mobile and tablet environments.
+**Built in Switzerland. Built for Europe. Built for the world.**
 
-The platform is built with Next.js, React and TypeScript on the frontend, with Node.js, Next.js API routes, Socket.IO, Prisma, PostgreSQL and Redis powering the backend.
+### Platforms
 
-For realtime communication and live experiences, ZRP uses LiveKit and WebRTC.
+- Web
+- PWA
+- Android
+- iOS
+- iPadOS
+- Mobile and tablet
+- Shared REST APIs
+- Real-time services
 
-Authentication and security include NextAuth, Google Sign-In, Sign in with Apple, bcrypt, rate limiting, SSRF protection and Sentry.
+---
 
-The platform also integrates Firebase Cloud Messaging, Web Push, Resend and Nodemailer for communication and notifications.
+## 🧰 ZRP Technology
 
-AI functionality is integrated through DeepSeek and OpenAI compatible APIs.
+### Web & Frontend
 
-ZRP also includes Solana and USDC infrastructure, with blockchain functionality built using Solana Web3.js and the Solana token libraries.
+`Next.js 15` · `React 18` · `TypeScript` · `Tailwind CSS` · `Framer Motion` · `Lucide` · `Recharts`
 
-The ZRP Launchpad includes Rust, Anchor, Raydium and Jupiter.
+### Backend & Data
 
-Native mobile development includes Kotlin and Jetpack Compose for Android, and Swift and SwiftUI for Apple platforms.
+`Node.js` · `Next.js API Routes` · `Socket.IO` · `Prisma` · `PostgreSQL` · `Redis`
 
-## ZRPPad
+### Authentication & Security
 
-ZRPPad is a Web3 platform built around the Solana ecosystem.
+`NextAuth` · `Google Sign-In` · `Sign in with Apple` · `bcrypt` · `sanitize-html` · `Redis rate limiting` · `SSRF protection` · `Sentry`
 
-The project focuses on blockchain infrastructure, token functionality, wallet connectivity, decentralized storage and integrations with blockchain liquidity and trading infrastructure.
+### Realtime & Media
 
-The platform is built with Next.js and TypeScript, with Solana Web3.js, Metaplex, Pinata, Helius, PostgreSQL, Jupiter and Raydium.
+`LiveKit` · `WebRTC` · `UploadThing` · `Sharp` · `file-type`
 
-The goal is to make complex blockchain functionality accessible through a modern web application.
+### Communications
 
-## AmoraLive
+`Firebase Admin / FCM` · `Web Push` · `Resend` · `Nodemailer`
 
-AmoraLive is a production oriented dating and social platform designed for mobile and web.
+### AI
 
-The project combines a React Native and Expo mobile application with a Node.js backend, PostgreSQL, realtime communication and integrated monetization.
+`DeepSeek` · `OpenAI-compatible SDK`
 
-The mobile application uses React Native, Expo, Expo Router, React Native 0.83, Expo Notifications, Expo Secure Store, Expo Image Picker and Apple Sign-In.
+### Blockchain & Web3
 
-The backend is built with Node.js, Express, Prisma, PostgreSQL, Socket.IO, Redis, JWT, bcrypt and Zod.
+`Solana` · `@solana/web3.js` · `@solana/spl-token` · `USDC`
 
-Realtime communication uses Socket.IO, LiveKit and WebRTC.
+### ZRP Launchpad
 
-The monetization infrastructure includes Stripe, Apple In-App Purchases and Google Play In-App Purchases through react-native-iap.
+`Rust` · `Anchor` · `Raydium CPMM` · `Raydium SDK` · `Jupiter Aggregator`
 
-The web application uses Next.js, React, Socket.IO Client and Axios.
+### Native Mobile
 
-## Engineering
+`Kotlin` · `Jetpack Compose` · `Android SDK` · `Media3` · `Swift` · `SwiftUI` · `WebRTC` · `Capacitor`
 
-My work covers full stack software development, product architecture, web applications, mobile applications, social platforms, realtime communication, WebRTC, AI, blockchain, payment systems and scalable backend infrastructure.
+---
 
-I enjoy working on complex products where different technologies have to work together reliably.
+## 🚀 Projects
 
-I care about architecture, security, performance, maintainability and the overall user experience.
+### ZRP Social
 
-## Technology
+A Swiss/European social platform built around people, communities, communication, media, live experiences, AI and modern digital infrastructure.
 
-My main programming languages are TypeScript, JavaScript, Rust, Kotlin, Swift and SQL.
+**Focus:** social networking, realtime communication, media, communities, discovery, mobile applications, AI and scalable backend systems.
 
-For web development I work primarily with React and Next.js.
+---
 
-For mobile development I work with React Native, Expo, Kotlin, Jetpack Compose, Swift and SwiftUI.
+### ZRPPad
 
-For backend systems I work with Node.js, Express, Next.js APIs, PostgreSQL, Prisma and Redis.
+A Solana-based Web3 platform for token creation, wallet integration, IPFS storage, analytics and decentralized financial infrastructure.
 
-For realtime applications I work with Socket.IO, WebRTC and LiveKit.
+The platform includes functionality around:
 
-For blockchain development I work with Solana, Anchor, Metaplex, Raydium and Jupiter.
+- Solana token creation
+- Wallet integration
+- IPFS / decentralized storage
+- Token analytics
+- Token vesting
+- Token staking
+- Liquidity
+- DEX integration
+- Airdrops
+- DAO functionality
+- NFT functionality
+- Affiliate systems
 
-For AI integrations I work with DeepSeek and OpenAI compatible APIs.
+**Technology:**
 
-## About
+`Next.js 15` · `TypeScript` · `Solana Web3.js` · `Metaplex` · `Pinata` · `Helius` · `PostgreSQL` · `Tailwind CSS` · `Framer Motion` · `Jupiter` · `Raydium`
 
-For more than 19 years, I have been building software and turning ideas into real products.
+---
 
-As a founder, my role goes beyond writing code. I work on architecture, product decisions, infrastructure, development, security and the continuous improvement of the platforms I build.
+### AmoraLive
 
-I believe technology should be useful, secure, reliable and built for people.
+**AmoraLive** is a production-oriented dating and social platform designed for mobile and web.
 
-Based in Switzerland 🇨🇭
+The project combines a React Native / Expo mobile application with a Node.js backend and PostgreSQL infrastructure.
 
-Building for Europe.
+### Mobile
 
-Building for the world.
+`React Native` · `Expo` · `Expo Router` · `React 19` · `React Native 0.83` · `Expo Notifications` · `Expo Secure Store` · `Expo Image Picker` · `Apple Sign-In`
 
-## ZRP Social
+### Backend
 
-Built in Switzerland.
+`Node.js` · `Express 5` · `Prisma` · `PostgreSQL` · `Socket.IO` · `Redis` · `JWT` · `bcrypt` · `Zod`
 
-Built for Europe.
+### Realtime
 
-Built for the world.
+`Socket.IO` · `LiveKit` · `WebRTC`
+
+### Payments
+
+`Stripe` · `Apple In-App Purchases` · `Google Play In-App Purchases` · `react-native-iap`
+
+### Infrastructure
+
+`UploadThing` · `Nodemailer` · `Helmet` · `CORS` · `Redis`
+
+### Web
+
+`Next.js 15` · `React 19` · `Socket.IO Client` · `Axios`
+
+---
+
+## 🧠 Engineering Focus
+
+- Full-stack application architecture
+- Social platforms
+- Mobile applications
+- Web applications
+- Real-time communication
+- WebRTC and live experiences
+- AI-integrated products
+- Blockchain and Web3
+- Solana infrastructure
+- Payment systems
+- Subscription systems
+- In-app purchases
+- Cloud media infrastructure
+- PostgreSQL and database architecture
+- Redis and realtime infrastructure
+- API design
+- Authentication and security
+- Multi-platform product development
+
+---
+
+## 🏗️ Building Across Multiple Platforms
+
+My projects are designed to work across modern platforms rather than being limited to a single environment.
+
+**Web · PWA · Android · iOS · iPadOS · Mobile · Tablet**
+
+The goal is to maintain shared backend infrastructure while providing platform-appropriate user experiences.
+
+---
+
+## 🇨🇭 About
+
+For more than **19 years**, I have been writing code, designing systems and turning ideas into real products.
+
+Based in Switzerland.
+
+I believe technology should serve people, respect privacy, remain secure by design and create opportunities for communities across borders.
+
+I enjoy building ambitious products from the architecture and backend all the way to the mobile and web experience.
+
+---
+
+## ⚙️ Technology
+
+### Languages
+
+`TypeScript` · `JavaScript` · `Rust` · `Kotlin` · `Swift` · `SQL`
+
+### Frameworks & Runtime
+
+`Next.js` · `React` · `React Native` · `Expo` · `Node.js` · `Express` · `SwiftUI` · `Jetpack Compose`
+
+### Databases & Infrastructure
+
+`PostgreSQL` · `Prisma` · `Redis`
+
+### Realtime
+
+`Socket.IO` · `WebRTC` · `LiveKit`
+
+### Cloud & Media
+
+`UploadThing` · `FCM` · `Web Push` · `Resend` · `Nodemailer`
+
+### Blockchain
+
+`Solana` · `Anchor` · `Metaplex` · `Raydium` · `Jupiter` · `USDC`
+
+### AI
+
+`DeepSeek` · `OpenAI-compatible APIs`
+
+---
+
+## 🎯 One Vision
+
+Technology should not only be about code.
+
+It should be about what we build with it.
+
+**People. Ideas. Freedom. A brighter tomorrow.**
+
+---
+
+## 🇨🇭 ZRP Social
+
+**Built in Switzerland.  
+Built for Europe.  
+Built for the world.**
